@@ -52,28 +52,5 @@ class MainActivity : AppCompatActivity() {
             }
         })
     }
-//    fun test(){
-//        databaseReference.limitToFirst(2).addListenerForSingleValueEvent(object : ValueEventListener {
-//            override fun onDataChange(snapshot: DataSnapshot) {
-//                val itemList = mutableListOf<Item>() // itemList ro'yxatni yaratamiz
-//
-//                for (itemSnapshot in snapshot.children) {
-//                    val item = itemSnapshot.getValue(Item::class.java)
-//                    item?.let { itemList.add(it) }
-//                }
-//
-//                // itemList ro'yxatidan olingan ma'lumotlarni ishlatishingiz mumkin
-//                for (item in itemList) {
-//                    val title = item.title
-//                    val imageUrl = item.imageUrl
-//                    // Olingan ma'lumotlarni ishlatish
-//                }
-//            }
-//
-//            override fun onCancelled(error: DatabaseError) {
-//                // Xatolikni qaytarish
-//            }
-//        })
-//    }
-//    }
+
 }
