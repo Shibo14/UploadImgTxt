@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559565154560",
+    "project_id": "fir-imgtxtupload",
+    "storage_bucket": "fir-imgtxtupload.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559565154560:android:eb83c475c2eaaf16ce2be5",
+        "android_client_info": {
+          "package_name": "uz.abbos.firebaseimgtxtupload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO1q-LxgtxqE0smg9hhvdMLZP8gzrfVqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
